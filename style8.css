@@ -1,0 +1,11 @@
+/* review excercise - make the h1 header blue, using the its class */
+
+/*review exercise - center everything on the page */
+body{
+  text-align: center;
+}
+/*review exercise - add a red border to the text box, using the text box id*/
+#inputFood
+{
+  border-color: red;
+}
